@@ -1,1 +1,1 @@
-class{"apache":}
+include apache
