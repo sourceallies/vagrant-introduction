@@ -5,6 +5,16 @@ Pre-requisites:
  * Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
  * Install [Vagrant](http://downloads.vagrantup.com/tags/v1.2.7)
  * Grab the [precise64 box](http://files.vagrantup.com/precise64.box)
+
+Agenda:
+ 1 Intro to Vagrant
+ 2 Install the box
+ 3 Get it running
+ 4 Manual Apache setup
+ 5 Intro to Puppet
+ 6 Puppet Apache setup
+ 7 Deploying a simple web page to puppet
+ 8 To the Cloud with EC2 and the AWS Plugin
  
 Resources:
 
