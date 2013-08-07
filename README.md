@@ -5,7 +5,7 @@ Pre-requisites:
  * Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
  * Install [Vagrant](http://downloads.vagrantup.com/tags/v1.2.7)
  * Grab the [precise64 box](http://files.vagrantup.com/precise64.box)
- * Cygwin with SSH for Windows Users
+ * [Cygwin with SSH for Windows Users](http://www.cygwin.com/)
 
 Agenda:
 
@@ -23,3 +23,4 @@ Agenda:
 Resources:
 
  - [Boxes](http://www.vagrantbox.es/)
+ - [Puppet Types](http://docs.puppetlabs.com/references/latest/type.html)
