@@ -9,16 +9,16 @@ Pre-requisites:
 
 Agenda:
 
- 1 Intro to Vagrant
- 1 Install the box
- 1 Get it running
- 1 Introductory SSH
- 1 Manual Apache setup
- 1 Intro to Puppet
- 1 Puppet Apache setup (simple exec vs. package/service vs. puppet module)
- 1 Deploying a simple web page to puppet (simple exec vs. module)
- 1 To the Cloud with EC2 and the AWS Plugin
- 1 Reusable modules with Puppet Forge
+ - Intro to Vagrant
+ - Install the box
+ - Get it running
+ - Introductory SSH
+ - Manual Apache setup
+ - Intro to Puppet
+ - Puppet Apache setup (simple exec vs. package/service vs. puppet module)
+ - Deploying a simple web page to puppet (simple exec vs. module)
+ - To the Cloud with EC2 and the AWS Plugin
+ - Reusable modules with Puppet Forge
  
 Resources:
 
