@@ -1,1 +1,3 @@
-include myapp
+class { "myapp": 
+	name => "Test",
+}
