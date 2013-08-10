@@ -8,4 +8,9 @@ class apache {
 		require => Package["apache2"],
 	}
 	
+	file { "/var/www":
+		ensure => directory,
+		notify => Service["apache2"],
+	}
+	
 }
