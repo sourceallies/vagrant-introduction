@@ -9,6 +9,7 @@ Pre-requisites:
 
 Agenda:
 
+ - Virtualization Overview
  - Intro to Vagrant
  - Install the box
  - Get it running
